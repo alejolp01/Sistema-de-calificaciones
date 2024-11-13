@@ -1,5 +1,6 @@
 ## Descripción
-En este portafolio se encuentran mi proyecto, el cual está creado con Python y MySQL
+Este proyecto está creado con Python y MySQL.
+
 
 ## Autor
 **Alejandro López Peña**
