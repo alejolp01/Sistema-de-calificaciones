@@ -6,6 +6,7 @@ Este proyecto establece una conexión entre Python y MySQL para gestionar una ba
 -Calificaciones_schema: El archivo Script SQL debe abrirse en MySQL Workbench, ejecutarse y creará automáticamente la base de datos. (Es importante crear la base de datos antes de ejecutar cualquier código en Python).
 
 **Archivos .py**
+
 A continuación, se detallan los archivos de Python (se recomienda abrirlos en Spyder para una mejor experiencia):
 
 -Conexion: Este archivo maneja la conexión entre Python y MySQL.
