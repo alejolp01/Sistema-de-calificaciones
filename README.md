@@ -1,11 +1,11 @@
 ## Descripción
 Este proyecto establece una conexión entre Python y MySQL para gestionar una base de datos que contiene registros de calificaciones. El código en Python permite mostrar, agregar, actualizar y eliminar registros de calificaciones. A continuación, se explican los contenidos de cada uno de los archivos que se encuentran dentro de la carpeta:
 
-**Archivo de SQL**
+**Archivo .sql**
 
 -Calificaciones_schema: El archivo Script SQL debe abrirse en MySQL Workbench, ejecutarse y creará automáticamente la base de datos. (Es importante crear la base de datos antes de ejecutar cualquier código en Python).
 
-**Archivos de python**
+**Archivos .py**
 A continuación, se detallan los archivos de Python (se recomienda abrirlos en Spyder para una mejor experiencia):
 
 -Conexion: Este archivo maneja la conexión entre Python y MySQL.
